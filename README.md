@@ -60,13 +60,19 @@ AMI (Applicazione Interattiva per la Salute Mentale) is an innovative platform a
 ### Web Dashboard
 <table>
   <tr>
-    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.41.19.png" alt="Web Screen 1" width="500"><td>
-    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.41.46.png" alt="Web Screen 1" width="500"><td>
-    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.42.27.png" alt="Web Screen 1" width="500"><td>
-    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.42.51.png" alt="Web Screen 1" width="500"><td>
-    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.43.02.png" alt="Web Screen 1" width="500"><td>
+    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.41.19.png" alt="Web Screen 1" width="400"></td>
+    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.41.46.png" alt="Web Screen 2" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.42.27.png" alt="Web Screen 3" width="400"></td>
+    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.42.51.png" alt="Web Screen 4" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.43.02.png" alt="Web Screen 5" width="400"></td>
+    <td></td> <!-- Empty cell for spacing if needed -->
   </tr>
 </table>
+
 
 ---
 
