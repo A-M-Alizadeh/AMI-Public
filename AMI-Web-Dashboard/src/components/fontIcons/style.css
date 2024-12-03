@@ -1,0 +1,453 @@
+@font-face {
+  font-family: 'ami_fonticon';
+  src:
+    url('fonts/ami_fonticon.ttf?w792io') format('truetype'),
+    url('fonts/ami_fonticon.woff?w792io') format('woff'),
+    url('fonts/ami_fonticon.svg?w792io#ami_fonticon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ico-"], [class*=" ico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ami_fonticon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-amusement-park-ami:before {
+  content: "\e900";
+}
+.ico-apple-ami:before {
+  content: "\e901";
+}
+.ico-battery-ami:before {
+  content: "\e902";
+}
+.ico-beer-ami:before {
+  content: "\e903";
+}
+.ico-bolt-ami:before {
+  content: "\e904";
+}
+.ico-breathing-ami:before {
+  content: "\e905";
+}
+.ico-cheers-ami:before {
+  content: "\e906";
+}
+.ico-cigar-ami:before {
+  content: "\e907";
+}
+.ico-cinema-ami:before {
+  content: "\e908";
+}
+.ico-cloudy-ami:before {
+  content: "\e909";
+}
+.ico-cocaine-ami:before {
+  content: "\e90a";
+}
+.ico-coffee-ami:before {
+  content: "\e90b";
+}
+.ico-cycling-ami:before {
+  content: "\e90c";
+}
+.ico-dance-ami:before {
+  content: "\e90d";
+}
+.ico-discipline-ami:before {
+  content: "\e90e";
+}
+.ico-disco-ami:before {
+  content: "\e90f";
+}
+.ico-efficiency-ami:before {
+  content: "\e910";
+}
+.ico-effort-ami:before {
+  content: "\e911";
+}
+.ico-energyDrink-ami:before {
+  content: "\e912";
+}
+.ico-exam-ami:before {
+  content: "\e913";
+}
+.ico-fire-ami:before {
+  content: "\e914";
+}
+.ico-gender-ami:before {
+  content: "\e915";
+}
+.ico-hangout-ami .path1:before {
+  content: "\e916";
+  color: rgb(0, 57, 150);
+}
+.ico-hangout-ami .path2:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(0, 57, 148);
+}
+.ico-hangout-ami .path3:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(0, 57, 148);
+}
+.ico-hangout-ami .path4:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(0, 57, 150);
+}
+.ico-hangout-ami .path5:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(0, 58, 149);
+}
+.ico-hangout-ami .path6:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(0, 55, 154);
+}
+.ico-hangout-ami .path7:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(0, 61, 150);
+}
+.ico-hangout-ami .path8:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(0, 57, 151);
+}
+.ico-hangout-ami .path9:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(0, 59, 148);
+}
+.ico-hangout-ami .path10:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(0, 59, 149);
+}
+.ico-hangout-ami .path11:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(0, 59, 149);
+}
+.ico-hangout-ami .path12:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(0, 57, 151);
+}
+.ico-hangout-ami .path13:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(0, 58, 149);
+}
+.ico-hangout-ami .path14:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(0, 57, 152);
+}
+.ico-hangout-ami .path15:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(0, 56, 152);
+}
+.ico-hangout-ami .path16:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(0, 57, 155);
+}
+.ico-hangout-ami .path17:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(0, 57, 155);
+}
+.ico-hangout-ami .path18:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: rgb(0, 59, 149);
+}
+.ico-happy-ami:before {
+  content: "\e928";
+}
+.ico-heart-ami:before {
+  content: "\e929";
+}
+.ico-heartBreath-ami:before {
+  content: "\e92a";
+}
+.ico-lungs-ami:before {
+  content: "\e92b";
+}
+.ico-marijuana-ami:before {
+  content: "\e92c";
+}
+.ico-meat-ami:before {
+  content: "\e92d";
+}
+.ico-meeting-ami:before {
+  content: "\e92e";
+}
+.ico-muscle-ami:before {
+  content: "\e92f";
+}
+.ico-museum-ami:before {
+  content: "\e930";
+}
+.ico-musicnote-ami:before {
+  content: "\e931";
+}
+.ico-mvp-ami:before {
+  content: "\e932";
+}
+.ico-neutral-ami:before {
+  content: "\e933";
+}
+.ico-noalcohol-ami:before {
+  content: "\e934";
+}
+.ico-nosmoking-ami:before {
+  content: "\e935";
+}
+.ico-panic-ami .path1:before {
+  content: "\e936";
+  color: rgb(88, 89, 102);
+}
+.ico-panic-ami .path2:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(202, 225, 247);
+}
+.ico-panic-ami .path3:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(236, 246, 254);
+}
+.ico-panic-ami .path4:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(250, 108, 121);
+}
+.ico-panic-ami .path5:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(66, 67, 77);
+}
+.ico-panic-ami .path6:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(66, 67, 77);
+}
+.ico-panic-ami .path7:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(253, 79, 96);
+}
+.ico-panic-ami .path8:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(181, 217, 245);
+}
+.ico-panic-ami .path9:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(181, 216, 246);
+}
+.ico-panic-ami .path10:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(180, 213, 245);
+}
+.ico-panic-ami .path11:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(181, 212, 245);
+}
+.ico-panic-ami .path12:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(181, 212, 245);
+}
+.ico-park-ami:before {
+  content: "\e942";
+}
+.ico-partly-cloudy-ami:before {
+  content: "\e943";
+}
+.ico-paw-ami:before {
+  content: "\e944";
+}
+.ico-plant-ami:before {
+  content: "\e945";
+}
+.ico-porn-ami .path1:before {
+  content: "\e946";
+  color: rgb(0, 0, 0);
+  opacity: 0.92;
+}
+.ico-porn-ami .path2:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.774;
+}
+.ico-porn-ami .path3:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.774;
+}
+.ico-porn-ami .path4:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.774;
+}
+.ico-rainy-ami .path1:before {
+  content: "\e94a";
+  color: rgb(0, 0, 0);
+  opacity: 0.773;
+}
+.ico-rainy-ami .path2:before {
+  content: "\e94b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.736;
+}
+.ico-rainy-ami .path3:before {
+  content: "\e94c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.747;
+}
+.ico-rainy-ami .path4:before {
+  content: "\e94d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.747;
+}
+.ico-rainy-ami .path5:before {
+  content: "\e94e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.736;
+}
+.ico-rainy-ami .path6:before {
+  content: "\e94f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.736;
+}
+.ico-rainy-ami .path7:before {
+  content: "\e950";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.747;
+}
+.ico-rainy-ami .path8:before {
+  content: "\e951";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.736;
+}
+.ico-rocket-ami .path1:before {
+  content: "\e952";
+  color: rgb(0, 0, 0);
+  opacity: 0.683;
+}
+.ico-rocket-ami .path2:before {
+  content: "\e953";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.645;
+}
+.ico-rocket-ami .path3:before {
+  content: "\e954";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.598;
+}
+.ico-rocket-ami .path4:before {
+  content: "\e955";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.598;
+}
+.ico-rocket-ami .path5:before {
+  content: "\e956";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.641;
+}
+.ico-rocket-ami .path6:before {
+  content: "\e957";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.899;
+}
+.ico-running-ami:before {
+  content: "\e958";
+}
+.ico-sad-ami:before {
+  content: "\e959";
+}
+.ico-smileStar-ami:before {
+  content: "\e95a";
+}
+.ico-snowy-ami:before {
+  content: "\e95b";
+}
+.ico-study-ami:before {
+  content: "\e95c";
+}
+.ico-sunny-ami:before {
+  content: "\e95d";
+}
+.ico-swim-ami:before {
+  content: "\e95e";
+}
+.ico-swords-ami:before {
+  content: "\e95f";
+}
+.ico-turtle-ami:before {
+  content: "\e960";
+}
+.ico-vegan-ami:before {
+  content: "\e961";
+}
+.ico-vegetable-ami:before {
+  content: "\e962";
+}
+.ico-veryhappy-ami:before {
+  content: "\e963";
+}
+.ico-verysad-ami:before {
+  content: "\e964";
+}
+.ico-walk-ami:before {
+  content: "\e965";
+}
+.ico-windy-ami:before {
+  content: "\e966";
+}
+.ico-wine-ami:before {
+  content: "\e967";
+}
+.ico-work-ami:before {
+  content: "\e968";
+}
+.ico-workout-ami:before {
+  content: "\e969";
+}

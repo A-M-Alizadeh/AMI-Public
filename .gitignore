@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+
+# React build
+/build
+/.cache
+/.eslintcache
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# NPM package lock file
+package-lock.json
+yarn.lock
+
+# Dependency directories
+AMI-Web-Dashboard/node_modules/
+AMI-Backend/node_modules/
+
+# Frontend build output
+AMI-Web-Dashboard/build/
+
+# Backend build output
+AMI-Backend/dist/
+
+# Test coverage reports
+coverage/
+
+# Miscellaneous
+*.log
+*.swp

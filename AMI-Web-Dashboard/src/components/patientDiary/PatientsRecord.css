@@ -1,0 +1,25 @@
+.patients-records::-webkit-scrollbar {
+    display: none !important;
+  }
+  
+  ::-webkit-scrollbar {
+    display: none !important;
+  }
+  
+/* 
+  ::-webkit-scrollbar {
+    width: 6px;
+  } */
+  
+
+  ::-webkit-scrollbar-track {
+    border: 1px solid #5a5a5a;
+    border-radius: 4px;
+  }
+  
+
+  ::-webkit-scrollbar-thumb {
+    background: #446985;
+    border-radius: 3px;
+  }
+  
