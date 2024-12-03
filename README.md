@@ -44,7 +44,7 @@ AMI (Applicazione Interattiva per la Salute Mentale) is an innovative platform a
    - For mobile: `npx react-native run-android` or `npx react-native run-ios`
 
 ---
-##Screenshots
+## Screenshots
 
 ### Mobile Application
 <table>
@@ -60,11 +60,11 @@ AMI (Applicazione Interattiva per la Salute Mentale) is an innovative platform a
 ### Web Dashboard
 <table>
   <tr>
-    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.41.19.png" alt="Web Screen 1" width="300"><td>
-    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.41.46.png" alt="Web Screen 1" width="300"><td>
-    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.42.27.png" alt="Web Screen 1" width="300"><td>
-    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.42.51.png" alt="Web Screen 1" width="300"><td>
-    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.43.02.png" alt="Web Screen 1" width="300"><td>
+    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.41.19.png" alt="Web Screen 1" width="500"><td>
+    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.41.46.png" alt="Web Screen 1" width="500"><td>
+    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.42.27.png" alt="Web Screen 1" width="500"><td>
+    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.42.51.png" alt="Web Screen 1" width="500"><td>
+    <td><img src="AMI-Web-Dashboard/screenshots/Screenshot 2024-12-03 at 13.43.02.png" alt="Web Screen 1" width="500"><td>
   </tr>
 </table>
 
